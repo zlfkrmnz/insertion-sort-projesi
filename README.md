@@ -13,7 +13,7 @@ Bu proje Veri Yapıları ve Algoritmalar modülünün projelerinden ilkidir.
 
 2. Big-O gösterimini yazınız.
 
-    * (n*n-1)/2 = O(n^2)
+    * (n*(n-1))/2 = O(n^2)
 
 3. Time Complexity: Average case: Aradığımız sayının ortada olması, Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 
